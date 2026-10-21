@@ -10,7 +10,7 @@ These terms govern the use of the Atlassian Marketplace app **Undelete – Recyc
 
 1. **Licence.** For the term of a valid subscription purchased through the Atlassian Marketplace (or free use where offered), the Vendor grants the Customer a non-exclusive, non-transferable right to use the App on the Customer's Atlassian Cloud sites. Purchases, renewals and refunds are handled by Atlassian under the Atlassian Marketplace Terms of Use.
 2. **Restrictions.** The Customer may not resell, sublicense, reverse engineer, or use the App to build a competing product, except as permitted by law.
-3. **Data.** The App stores data only inside the Customer's Atlassian Forge storage, as described in the [privacy policy]({{ '/privacy/' | relative_url }}). The Customer remains the controller of its data.
+3. **Data.** The App stores data only inside the Customer's Atlassian Forge storage, as described in the [privacy policy]({{ '/privacy/' | relative_url }}). The Customer remains the controller of its data; the [Data Processing Addendum]({{ '/dpa/' | relative_url }}) applies.
 4. **Service and backups.** The App helps restore deleted Jira content but is not a substitute for a complete backup. Content deleted before installation, content of excluded projects, attachments above the configured size limit or deleted before a backup copy was made, and content past the retention period cannot be restored.
 5. **Support.** Provided by e-mail as described on the [support page]({{ '/support/' | relative_url }}), on a commercially reasonable basis.
 6. **Warranty disclaimer.** The App is provided "as is". To the maximum extent permitted by law, the Vendor disclaims all warranties, express or implied, including fitness for a particular purpose.

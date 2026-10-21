@@ -30,11 +30,14 @@ Copies of deleted issues, comments, worklogs and attachments are deleted automat
 ## 5. Personal data reporting and erasure
 The App reports the account IDs it stores to Atlassian weekly via the Personal Data Reporting API and erases every reference to accounts that have been closed.
 
-## 6. Sharing
+## 6. Data Processing Addendum
+The [Data Processing Addendum]({{ '/dpa/' | relative_url }}) (Art. 28 GDPR) applies to all customers.
+
+## 7. Sharing
 We do not sell or share data. Sub-processor: Atlassian (hosting of the Forge platform).
 
-## 7. Your rights
+## 8. Your rights
 Site admins can exclude projects, change retention and uninstall the App at any time. For requests concerning personal data, contact your Jira site admin or us at [t.buchta@post.cz](mailto:t.buchta@post.cz).
 
-## 8. Changes
+## 9. Changes
 We will publish changes to this policy on this page.
