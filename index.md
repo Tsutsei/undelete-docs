@@ -1,9 +1,10 @@
 ---
 layout: page
-title: User guide
+title: Undelete for Jira – user guide
 permalink: /
 ---
 
+_Looking for Confluence? See the [Undelete for Confluence guide]({{ '/confluence/' | relative_url }})._
 
 ## Where to find it
 - **Jira admins:** ⚙ Settings → Apps → *Undelete – Recycle Bin* (left menu, under "Apps").

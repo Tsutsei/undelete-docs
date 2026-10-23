@@ -1,3 +1,3 @@
-# Undelete for Jira – public documentation
+# Undelete apps – public documentation
 
-Source of https://tsutsei.github.io/undelete-docs/ (user guide, privacy policy, support). The app itself is not in this repository.
+Source of https://tsutsei.github.io/undelete-docs/: user guides, privacy policies, terms, DPA and support for Undelete for Jira (site root) and Undelete for Confluence (`/confluence/`). The apps themselves are not in this repository.
