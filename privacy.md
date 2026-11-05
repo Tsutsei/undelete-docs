@@ -5,9 +5,9 @@ permalink: /privacy/
 ---
 
 
-_Last updated: 21 October 2026_
+_Last updated: 5 November 2026_
 
-This policy describes how the Atlassian Marketplace app "Undelete – Recycle Bin & Restore for Jira" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[t.buchta@post.cz](mailto:t.buchta@post.cz)**.
+This policy describes how the Atlassian Marketplace app "Undelete – Recycle Bin & Restore for Jira" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
 
 ## 1. What the App stores
 To make deleted Jira issues restorable, the App stores, inside your Jira Cloud site's Atlassian Forge storage:
@@ -37,7 +37,7 @@ The [Data Processing Addendum]({{ '/dpa/' | relative_url }}) (Art. 28 GDPR) appl
 We do not sell or share data. Sub-processor: Atlassian (hosting of the Forge platform).
 
 ## 8. Your rights
-Site admins can exclude projects, change retention and uninstall the App at any time. For requests concerning personal data, contact your Jira site admin or us at [t.buchta@post.cz](mailto:t.buchta@post.cz).
+Site admins can exclude projects, change retention and uninstall the App at any time. For requests concerning personal data, contact your Jira site admin or us at [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net).
 
 ## 9. Changes
 We will publish changes to this policy on this page.

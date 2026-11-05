@@ -4,9 +4,9 @@ title: Privacy policy – Undelete for Confluence
 permalink: /confluence/privacy/
 ---
 
-_Last updated: 23 October 2026_
+_Last updated: 5 November 2026_
 
-This policy describes how the Atlassian Marketplace app "Undelete – Trash Audit & Restore for Confluence" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[t.buchta@post.cz](mailto:t.buchta@post.cz)**.
+This policy describes how the Atlassian Marketplace app "Undelete – Trash Audit & Restore for Confluence" (the "App") processes data. The App is provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, registered office 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("we"). Contact: **[support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net)**.
 
 ## 1. What the App stores
 To show who deleted or moved content and to make deleted content restorable, the App stores, inside your Confluence Cloud site's Atlassian Forge storage:
@@ -37,7 +37,7 @@ The [Data Processing Addendum]({{ '/confluence/dpa/' | relative_url }}) (Art. 28
 We do not sell or share data. Sub-processor: Atlassian (hosting of the Forge platform).
 
 ## 8. Your rights
-Site admins can exclude spaces, change retention and uninstall the App at any time. For requests concerning personal data, contact your Confluence site admin or us at [t.buchta@post.cz](mailto:t.buchta@post.cz).
+Site admins can exclude spaces, change retention and uninstall the App at any time. For requests concerning personal data, contact your Confluence site admin or us at [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net).
 
 ## 9. Changes
 We will publish changes to this policy on this page.
