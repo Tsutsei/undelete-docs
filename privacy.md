@@ -14,6 +14,7 @@ To make deleted Jira issues restorable, the App stores, inside your Jira Cloud s
 - copies of issue data (fields, comments, worklogs, links, attachment metadata) of the projects it protects;
 - copies of attachment files, if attachment backups are enabled;
 - for deleted issues, comments, worklogs and attachments: when and by which Atlassian account they were deleted and restored;
+- for boards: their configuration (name, type, location, filter and its query, columns with statuses, estimation) and when and by which Atlassian account they were created, changed or deleted;
 - the App's settings.
 
 People are referenced only by their **Atlassian account ID**. The App does not store names, e-mail addresses or avatars; they are looked up from Jira when displayed.

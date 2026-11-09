@@ -24,6 +24,13 @@ When one person deletes at least N issues (Settings, default 10) within 10 minut
 ## Deleted comments, worklogs and files
 **Deleted comments & files** lists items deleted from issues that still exist; **Restore** puts them back (comments with a note naming the original author and date).
 
+## Boards: change log and deleted boards
+The **Boards** tab (Jira admins) shows who created, changed or deleted boards and what changed – renames, filter and its query, location, columns and their statuses, column limits and estimation.
+
+**Deleted boards** keeps the last known configuration of each deleted board. **Details & re-create** shows it and re-creates the board with its name, type, location and filter (if the filter was deleted too, a new filter with the saved query is created). Jira doesn't let apps set columns, quick filters or swimlanes, so the dialog lists the columns and their statuses for you to set up in Board settings.
+
+The configuration of existing boards is captured once after installation; changes are recorded from then on.
+
 ## Settings
 - **Excluded projects** – no copies are kept for them.
 - **Retention** – how long deleted content stays restorable (30–365 days).
