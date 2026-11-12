@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 5 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Undelete – Recycle Bin & Restore for Jira** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Undelete – Recycle Bin & Restore for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Keeping restorable copies of the Customer's Jira content and restoring it on the Customer's request, for as long as the App is installed, plus the retention period chosen by the Customer.
 2. **Nature and purpose.** Automated copying, storage, display and re-creation of Jira issues, comments, worklogs, links and attachments, solely to provide the App's functionality.
