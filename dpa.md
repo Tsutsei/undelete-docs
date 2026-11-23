@@ -6,13 +6,13 @@ permalink: /dpa/
 
 _Last updated: 5 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Undelete – Recycle Bin & Restore for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Undelete – Recycle Bin & Restore for Jira** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Keeping restorable copies of the Customer's Jira content and restoring it on the Customer's request, for as long as the App is installed, plus the retention period chosen by the Customer.
 2. **Nature and purpose.** Automated copying, storage, display and re-creation of Jira issues, comments, worklogs, links and attachments, solely to provide the App's functionality.
 3. **Types of personal data.** Atlassian account IDs (e.g. who deleted or restored content, authors referenced in copies) and any personal data the Customer's users put into Jira issues, comments, worklogs and attachments of protected projects.
 4. **Data subjects.** The Customer's Jira users and any persons mentioned in the Customer's Jira content.
-5. **Instructions.** The Vendor processes personal data only to operate the App as configured by the Customer (protected projects, retention, attachment backups) and on documented instructions sent to [support@tsutsei-support.atlassian.net](mailto:support@tsutsei-support.atlassian.net).
+5. **Instructions.** The Vendor processes personal data only to operate the App as configured by the Customer (protected projects, retention, attachment backups) and on documented instructions sent to [support@tsutsei-software.com](mailto:support@tsutsei-software.com).
 6. **Where data is processed.** Exclusively within Atlassian's Forge platform (Forge SQL, Key-Value Store and Object Store) for the Customer's site, inheriting Atlassian's data residency. The App sends no data outside Atlassian. The Vendor has no access to the stored data.
 7. **Sub-processor.** Atlassian (provider of the Forge platform), under Atlassian's own terms and data processing addendum. The Vendor will announce any new sub-processor on this page in advance.
 8. **Security.** Data is protected by the security measures of the Atlassian Forge platform (encryption at rest and in transit, tenant isolation). The App re-checks the permissions of the calling user on every request and stores user references as account IDs only.
